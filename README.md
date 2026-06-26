@@ -11,6 +11,7 @@ Testing mencakup alur end-to-end mulai dari Login, Product Browsing, Shopping Ca
 - Browser: Google Chrome
 
 **Test Credentials**
+
 **Username**                          **Password**          **Keterangan**
 standard_user                           secret_sauce✅        User normal (basis utama testing)
 locked_out_user                         secret_sauce🔒        User diblokir — negative test 
@@ -18,6 +19,7 @@ loginproblem_user                       secret_sauce⚠️        User dengan bu
 performance_glitch_user                 secret_sauce🐢        Simulasi loading lambat
 
 **Tools & Teknologi**
+
 **Tool**                    **Keterangan**
 Katalon Studio                IDE utama automation testing
 Selenium WebDriver            Engine web automation (built-in Katalon)
