@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Selesaikan order (Finish)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ffe129e9-02e4-4d3e-be85-bd36877711c5</testCaseGuid>
+</TestCaseEntity>

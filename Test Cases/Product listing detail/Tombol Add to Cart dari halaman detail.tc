@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tombol Add to Cart dari halaman detail</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>348f77fb-52df-4908-91ee-d3ac4f6d43bb</testCaseGuid>
+</TestCaseEntity>

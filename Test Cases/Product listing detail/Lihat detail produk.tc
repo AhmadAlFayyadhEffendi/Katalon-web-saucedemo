@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Lihat detail produk</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f08a3385-d9f6-4796-8f76-65f93fb5eeaf</testCaseGuid>
+</TestCaseEntity>

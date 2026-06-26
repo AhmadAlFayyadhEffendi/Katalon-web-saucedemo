@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login dengan semua field kosong</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>52f7bee9-4092-4d31-98cc-f10939dc8d3c</testCaseGuid>
+</TestCaseEntity>

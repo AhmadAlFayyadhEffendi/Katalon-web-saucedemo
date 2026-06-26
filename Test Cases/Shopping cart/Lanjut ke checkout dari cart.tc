@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Lanjut ke checkout dari cart</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7f629acc-a8ed-400c-9b9d-2b9902f994b3</testCaseGuid>
+</TestCaseEntity>

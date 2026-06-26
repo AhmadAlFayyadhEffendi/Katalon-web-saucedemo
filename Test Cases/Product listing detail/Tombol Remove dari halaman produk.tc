@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tombol Remove dari halaman produk</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5906db2c-4a75-40f3-869d-41ab568758c3</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Hapus semua produk dari cart</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>de00f88a-6978-4d82-9d88-2ef6b2edb328</testCaseGuid>
+</TestCaseEntity>

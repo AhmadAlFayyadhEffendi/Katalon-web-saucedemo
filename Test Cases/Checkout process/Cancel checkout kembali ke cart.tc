@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Cancel checkout kembali ke cart</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>420ac67a-91f6-4c3f-91bf-dcdc43acea54</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Kembali belanja dari halaman cart</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>502183ac-c8f0-4e66-8b66-eab141f46e1e</testCaseGuid>
+</TestCaseEntity>

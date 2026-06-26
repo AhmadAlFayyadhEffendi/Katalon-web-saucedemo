@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>nav_All ItemsAboutLogoutReset App State</name>
+   <tag></tag>
+   <elementGuidId>9c87a547-ae39-4d66-a956-2973443d0622</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>nav.bm-item-list</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='menu_button_container']/div/div[2]/div/nav</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;All ItemsAboutLogoutReset App State&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>nav</value>
+      <webElementGuid>e6202476-91a8-4292-a6c5-9ff4df404eec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bm-item-list</value>
+      <webElementGuid>c8e71036-2c5f-49b7-86f5-971988f294d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>All ItemsAboutLogoutReset App State</value>
+      <webElementGuid>aa689d9e-25fc-4ed4-921a-15d593c684aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu_button_container&quot;)/div[1]/div[@class=&quot;bm-menu-wrap&quot;]/div[@class=&quot;bm-menu&quot;]/nav[@class=&quot;bm-item-list&quot;]</value>
+      <webElementGuid>de308fbf-fae2-4dcb-b1c1-fc3e0a8323d9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='menu_button_container']/div/div[2]/div/nav</value>
+      <webElementGuid>12050b56-e2b2-4c5d-8207-fe0943230acd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open Menu'])[1]/following::nav[1]</value>
+      <webElementGuid>e0f0b212-8172-4b4f-8319-700490b72c67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close Menu'])[1]/preceding::nav[1]</value>
+      <webElementGuid>263e1e53-57c7-47ae-84a7-f5ab80e0640e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav</value>
+      <webElementGuid>8d3b7e6d-7de0-452e-933f-c20d3300b43d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//nav[(text() = 'All ItemsAboutLogoutReset App State' or . = 'All ItemsAboutLogoutReset App State')]</value>
+      <webElementGuid>06ab2600-8f87-4301-a61a-85800d954b44</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

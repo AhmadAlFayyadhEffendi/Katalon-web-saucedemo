@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Sort harga rendah ke tinggi</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d5755c63-b95b-48d8-936d-c85e83a05935</testCaseGuid>
+</TestCaseEntity>
