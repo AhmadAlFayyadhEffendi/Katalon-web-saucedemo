@@ -103,4 +103,3 @@ SauceDemo-Automation/
 **Ahmad Al Fayyadh Effendi**  
 📧 alfayatefendi@gmail.com  
 🎓 Information Systems — Universitas Nusa Mandiri  
-🏅 QA Automation Bootcamp — PT Adidata Informatika (June 2026)
